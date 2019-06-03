@@ -338,6 +338,9 @@ margin: 0 0 2rem;
     }
 }
 
+.btn-icon {
+    margin-left: 1rem;
+}
 
 
 @media(max-width: 700px) {
